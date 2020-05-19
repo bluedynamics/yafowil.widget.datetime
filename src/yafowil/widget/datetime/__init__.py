@@ -6,7 +6,7 @@ import os
 resourcedir = os.path.join(os.path.dirname(__file__), 'resources')
 js = [{
     'group': 'yafowil.widget.datetime.datepicker',
-    'resource': 'jquery.ui.datepicker.min.js',
+    'resource': 'jquery.ui.datepicker.js',
     'order': 20,
 }, {
     'group': 'yafowil.widget.datetime.timepicker',

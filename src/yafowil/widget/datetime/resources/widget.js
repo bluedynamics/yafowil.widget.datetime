@@ -1,8 +1,8 @@
 /* jslint browser: true */
 /* global jQuery, yafowil */
-/* 
+/*
  * yafowil datepicker widget
- * 
+ *
  * Requires: jquery ui datepicker
  * Optional: bdajax
  */
@@ -88,7 +88,7 @@ if (window.yafowil === undefined) {
             dayStatus: 'Setze DD als ersten Wochentag',
             dateStatus: 'Wähle D, M d',
             dateFormat: 'dd.mm.yy',
-            firstDay: 1, 
+            firstDay: 1,
             initStatus: 'Wähle ein Datum',
             isRTL: false
         };
