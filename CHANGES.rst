@@ -5,7 +5,8 @@ History
 1.12 (unreleased)
 -----------------
 
-- No changes yet.
+- Add bootstrap4 theme.
+  [jensens]
 
 
 1.11 (2018-11-07)

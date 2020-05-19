@@ -65,5 +65,9 @@ def register():
                            resourcedir, js=js, css=default_css)
     factory.register_theme('bootstrap', 'yafowil.widget.datetime',
                            resourcedir, js=js, css=bootstrap_css)
+    factory.register_theme('bootstrap3', 'yafowil.widget.datetime',
+                           resourcedir, js=js, css=bootstrap_css)
+    factory.register_theme('bootstrap4', 'yafowil.widget.datetime',
+                           resourcedir, js=js, css=bootstrap_css)
     factory.register_theme('plone5', 'yafowil.widget.datetime',
                            resourcedir, js=js, css=plone5_css)
